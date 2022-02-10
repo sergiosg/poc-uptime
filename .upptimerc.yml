@@ -5,7 +5,31 @@ repo: poc-uptime # The name of this repository
 sites:
   - name: Reloadly Developer Portal
     url: https://www.reloadly.com
-
+  - name: Authorization Service
+    url: https://auth.reloadly.com
+    expectedStatusCodes:
+      - 401
+  - name: Topups Service
+    url: https://topups.reloadly.com
+    expectedStatusCodes:
+      - 401   
+  - name: Topups Sandbox Service
+    url: https://topups-sandbox.reloadly.com
+    expectedStatusCodes:
+      - 401       
+  - name: Giftcards Service
+    url: https://giftcards.reloadly.com
+    expectedStatusCodes:
+      - 401
+  - name: Giftcards Sandbox Service
+    url: https://giftcards-sandbox.reloadly.com
+    expectedStatusCodes:
+      - 401      
+  - name: Portal Service
+    url: https://portal2.reloadly.com
+    expectedStatusCodes:
+      - 401      
+      
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
