@@ -96,18 +96,20 @@
     "url": "https://giftcards-sandbox.reloadly.com",
     "icon": "https://favicons.githubusercontent.com/giftcards-sandbox.reloadly.com",
     "slug": "giftcards-sandbox-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 406,
-    "timeWeek": 258,
+    "timeDay": 300,
+    "timeWeek": 250,
     "timeMonth": 197,
     "timeYear": 197,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-14": 0
+    }
   },
   {
     "name": "Portal Service",
