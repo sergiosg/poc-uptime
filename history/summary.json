@@ -96,19 +96,19 @@
     "url": "https://giftcards-sandbox.reloadly.com",
     "icon": "https://favicons.githubusercontent.com/giftcards-sandbox.reloadly.com",
     "slug": "giftcards-sandbox-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 300,
-    "timeWeek": 250,
-    "timeMonth": 197,
-    "timeYear": 197,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 194,
+    "timeDay": 232,
+    "timeWeek": 233,
+    "timeMonth": 194,
+    "timeYear": 194,
     "dailyMinutesDown": {
-      "2022-03-14": 0
+      "2022-03-14": 18
     }
   },
   {
