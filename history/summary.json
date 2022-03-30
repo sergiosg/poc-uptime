@@ -58,18 +58,20 @@
     "url": "https://topups-sandbox.reloadly.com",
     "icon": "https://favicons.githubusercontent.com/topups-sandbox.reloadly.com",
     "slug": "topups-sandbox-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 239,
-    "timeDay": 370,
-    "timeWeek": 167,
-    "timeMonth": 226,
+    "timeDay": 284,
+    "timeWeek": 171,
+    "timeMonth": 225,
     "timeYear": 239,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-30": 0
+    }
   },
   {
     "name": "Giftcards Service",
