@@ -40,19 +40,19 @@
     "url": "https://topups.reloadly.com",
     "icon": "https://favicons.githubusercontent.com/topups.reloadly.com",
     "slug": "topups-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "84.87%",
+    "uptimeWeek": "97.84%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.77%",
     "time": 213,
-    "timeDay": 228,
-    "timeWeek": 132,
-    "timeMonth": 154,
+    "timeDay": 236,
+    "timeWeek": 146,
+    "timeMonth": 157,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2022-04-16": 0
+      "2022-04-16": 218
     }
   },
   {
